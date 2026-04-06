@@ -1,7 +1,5 @@
 # Obsidian AI Assistant
 
-Simple plugin to enable interactions with AI models such as [OpenAI ChatGPT](https://openai.com/blog/chatgpt), [Anthropic Claude](https://docs.anthropic.com/en/docs/models-overview), [OpenAI DALL·E](https://openai.com/product/dall-e-3), [OpenAI Whisper](https://openai.com/research/whisper) directly from your [Obsidian](https://obsidian.md/) notes.
-
 The current available features of this plugin are:
 
 -   🤖 Text assistant with OpenAI GPTs and Anthropic Claude models,
@@ -70,12 +68,6 @@ The transcript will be immediately added to your note at your cursor location.
 -   The model used is **Whisper**,
 -   You can change the default **language** to improve the accuracy and latency of the model. If you leave it empty, the model will automatically detect it.
 
-## How to install
-
-#### From the community plugins
-
-You can install the [AI Assistant](https://obsidian.md/plugins?id=ai-assistant) directly from the Obsidian community plugins.
-
 #### Get latest version from git
 
 1. `cd path/to/vault/.obsidian/plugins`
@@ -84,9 +76,4 @@ You can install the [AI Assistant](https://obsidian.md/plugins?id=ai-assistant) 
 4. Open **Obsidian Preferences** -> **Community plugins**
 5. Refresh Installed plugins and activate AI Assistant.
 
-## Requirements
 
--   To use this plugin, with OpenAI models, you need an official API key from [here](https://platform.openai.com/account/api-keys),
--   To use this plugin, with Anthropic Claude models, you need an official API key from [here](https://console.anthropic.com/settings/keys).
-
-<a href="https://www.buymeacoffee.com/qgrail" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
