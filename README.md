@@ -42,7 +42,7 @@ In the result window, select the images you want to keep.\
 They will automatically be downloaded to your vault and their path copied to your clipboard.\
 Then, you can paste the images anywhere in your notes.
 
-<img src="gifs/image_generator.gif" alt= “” width="55%">
+
 
 ### 🗣 Speech to Text
 
